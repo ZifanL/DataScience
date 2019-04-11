@@ -1,0 +1,14 @@
+imdb_data.csv is extracted from IMDB
+metacritic_data.csv is extracted from Metacritic
+
+Meaning of attributes:
+name: name of the movie
+genre: genre of the movie
+actor: actors in the movie
+director: director of the movie
+duration: duration of the movie
+data_release: date when the movie was released
+score: score of the movie on the website
+
+imdb_data.csv has 4319 tuples
+metacritic_data.csv has 3000 tuples
